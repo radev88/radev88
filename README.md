@@ -41,7 +41,7 @@ Currently interested in:
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Reinforcing
 
 - Data Structures & Algorithms
 - Software Engineering Best Practices
