@@ -1,14 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Rubén Alejandro Dávila 👋
+# Hi!, I'm Rubén Alejandro Dávila 👋
 
 ### Computer Science Student • IT Support • Data & Automation Enthusiast
 
 Building practical software that improves business processes through automation, data analysis, and modern development practices.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=github)]
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]
 
 </div>
 
@@ -103,13 +99,4 @@ Python • Pandas • Tkinter
 - Contribute to open source
 - Complete my Computer Science degree
 - Land a Software Engineer or Data Analyst full-time role
-- 
 ---
-
-<div align="center">
-
-*"The best way to learn is by building."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
