@@ -24,49 +24,6 @@ Currently interested in:
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Libraries & Frameworks
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
-
-### Tools
-
-![Oracle NetSuite](https://img.shields.io/badge/Oracle-NetSuite-C74634?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📌 Featured Project
-
-### 📦 Inventory Management App
-
-A desktop inventory management application developed for a university IT department.
-
-**Highlights**
-
-- ✔ Reduced daily manual inventory counting
-- ✔ Centralized equipment tracking
-- ✔ Managed laptops, desktops, and borrowed devices
-- ✔ Automated inventory records using Python & Pandas
-- ✔ Improved workflow efficiency for staff and interns
-
-**Tech Used**
-
-Python • Pandas • Tkinter
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -97,6 +54,6 @@ Python • Pandas • Tkinter
 
 - Build 10+ portfolio projects
 - Contribute to open source
-- Complete my Computer Science degree
+- Complete my Computer Science bachelor's degree
 - Land a Software Engineer or Data Analyst full-time role
 ---
