@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi!, I'm Rubén Alejandro Dávila 👋
+# Hi!, I'm Rubén Alejandro Dávila
 
 ### Computer Science Student • IT Support • Data & Automation Enthusiast
 
@@ -19,7 +19,6 @@ Currently interested in:
 - 📊 Data Analytics
 - 💻 Software Development
 - 🤖 Process Automation
-- ☁️ Cloud Technologies
 - 📈 Business Intelligence
 
 ---
